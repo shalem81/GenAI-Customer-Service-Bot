@@ -1,0 +1,56 @@
+[
+    {
+        "id": "14ea706b5995_0",
+        "title": "Customer Service Policies",
+        "source": "Customer Service Policies",
+        "content": "CUSTOMER SERVICE POLICIES Refund Policy Customers may request a refund within 30 days of purchase. A valid order number is required to process the refund. Approved refunds are returned to the original payment method. Cancellation Policy Customers may cancel an order before it has been shipped. Once an order has been shipped, cancellation may not be available and the customer should follow the return procedure. Return Policy Eligible products can be returned within 30 days of delivery. Products should be returned in their original condition. Certain personalized or final-sale products may not be eligible for return. Customer Support Customer support is available Monday through Saturday. Customers can contact support for order questions, refunds, returns, account issues, and product-related assistance. Complaint",
+        "chunk_index": 0,
+        "document_hash": "14ea706b59953e0072f395ad62e541a60ab11abdd38122c0a997ac4fbf0cb9d7",
+        "added_at": "2026-07-31T17:46:52"
+    },
+    {
+        "id": "14ea706b5995_1",
+        "title": "Customer Service Policies",
+        "source": "Customer Service Policies",
+        "content": "is available Monday through Saturday. Customers can contact support for order questions, refunds, returns, account issues, and product-related assistance. Complaint Handling Customer complaints should include the order number and a clear description of the problem. Complaints are reviewed by the customer support team and may be escalated when additional investigation is required. Account Security Customers should never share passwords or verification codes with another person. If suspicious activity is detected, the customer should change their password and contact customer support.",
+        "chunk_index": 1,
+        "document_hash": "14ea706b59953e0072f395ad62e541a60ab11abdd38122c0a997ac4fbf0cb9d7",
+        "added_at": "2026-07-31T17:46:52"
+    },
+    {
+        "id": "a61e82e4e71c_0",
+        "title": "Product Information",
+        "source": "Product Information",
+        "content": "PRODUCT INFORMATION Standard Plan The Standard Plan provides access to basic customer support and standard service features. Premium Plan The Premium Plan includes priority customer support and access to premium service features. Premium customers receive priority assistance when contacting customer support. Delivery Standard orders are normally processed using standard delivery. Premium orders are eligible for priority processing and may be delivered within two business days when priority delivery is available. Product Support Customers experiencing a problem with a product should provide the product name, order number, and a description of the issue. Warranty Warranty eligibility depends on the product and purchase conditions. Customers should provide their order details when requesting warranty support. Express Replacement Premium customers with eligible defective products",
+        "chunk_index": 0,
+        "document_hash": "a61e82e4e71cbe8f3064f76bfc1e845220d7e22cdbbe7b3848656894c4f326ff",
+        "added_at": "2026-07-31T17:46:52"
+    },
+    {
+        "id": "a61e82e4e71c_1",
+        "title": "Product Information",
+        "source": "Product Information",
+        "content": "purchase conditions. Customers should provide their order details when requesting warranty support. Express Replacement Premium customers with eligible defective products can request an express replacement. Approved express replacements are normally processed within one business day.",
+        "chunk_index": 1,
+        "document_hash": "a61e82e4e71cbe8f3064f76bfc1e845220d7e22cdbbe7b3848656894c4f326ff",
+        "added_at": "2026-07-31T17:46:52"
+    },
+    {
+        "id": "d0529697d7ae_0",
+        "title": "FAQ Knowledge",
+        "source": "FAQ Knowledge",
+        "content": "FREQUENTLY ASKED QUESTIONS How can I request a refund? A refund request can be submitted to customer support within 30 days of purchase. Customers should provide their order number. Can I cancel my order? An order can normally be cancelled before it has been shipped. How do I contact customer support? Customers can contact the customer support team for assistance with orders, refunds, returns, accounts, and product issues. What information should I provide for a product problem? Provide the product name, order number, and a description of the problem. Do premium customers receive priority support? Yes. Premium customers receive priority customer support. How quickly are premium orders delivered? Premium orders may qualify for priority delivery within two business days when",
+        "chunk_index": 0,
+        "document_hash": "d0529697d7ae9ac1754e79801bf2941c3ebc8385684203776b6a58b5b690bc44",
+        "added_at": "2026-07-31T17:46:52"
+    },
+    {
+        "id": "d0529697d7ae_1",
+        "title": "FAQ Knowledge",
+        "source": "FAQ Knowledge",
+        "content": "customer support. How quickly are premium orders delivered? Premium orders may qualify for priority delivery within two business days when the service is available. What should I do if I notice suspicious activity on my account? Change your password and contact customer support. Never share passwords or verification codes with another person. Can customers change their delivery address? Customers may request a delivery address change before the order has been shipped. Once shipping has started, changing the delivery address may not be possible.",
+        "chunk_index": 1,
+        "document_hash": "d0529697d7ae9ac1754e79801bf2941c3ebc8385684203776b6a58b5b690bc44",
+        "added_at": "2026-07-31T17:46:52"
+    }
+]

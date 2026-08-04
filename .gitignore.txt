@@ -1,0 +1,101 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# -----------------------------
+# Virtual Environment
+# -----------------------------
+venv/
+.venv/
+env/
+
+# -----------------------------
+# Environment Variables / Secrets
+# -----------------------------
+.env
+.env.*
+!.env.example
+
+# -----------------------------
+# Streamlit Secrets
+# -----------------------------
+.streamlit/secrets.toml
+
+# -----------------------------
+# IDE / Editor
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Operating System
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Testing
+# -----------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+logs/
+
+# -----------------------------
+# Temporary Files
+# -----------------------------
+*.tmp
+*.temp
+~$*
+
+# -----------------------------
+# Python Packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Local Database
+# -----------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# -----------------------------
+# Vector Database
+# -----------------------------
+vector_db/*
+!vector_db/.gitkeep
+
+# -----------------------------
+# Large / Downloaded Datasets
+# -----------------------------
+data/raw/
+data/downloads/
+*.zip
+
+# -----------------------------
+# ML Model Cache
+# -----------------------------
+.cache/
+models/
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+
+# arXiv full dataset
+data/arxiv-metadata-oai-snapshot.json

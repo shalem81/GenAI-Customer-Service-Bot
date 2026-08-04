@@ -1,0 +1,22 @@
+{
+    "sources": [
+        {
+            "name": "Customer Service Policies",
+            "type": "text_file",
+            "path": "data/sources/customer_service.txt",
+            "enabled": true
+        },
+        {
+            "name": "Product Information",
+            "type": "text_file",
+            "path": "data/sources/products.txt",
+            "enabled": true
+        },
+        {
+            "name": "FAQ Knowledge",
+            "type": "text_file",
+            "path": "data/sources/faq.txt",
+            "enabled": true
+        }
+    ]
+}
